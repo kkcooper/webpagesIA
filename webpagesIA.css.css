@@ -6,15 +6,15 @@
  *Description: [Assignment Description]
  */
  
-p { 
-	photo-resize: height=200px width=250px
+p {
 }
 
-.background {
-    background-color: #ACE1AF
-
+.table-border {
+    border: 1px solid #FFFFFF;
 }
 
-#id {
-    border-color: #000000
+#photo-resize {
+    max-width:200px;
+	max-height: 250px 
+    
 }
