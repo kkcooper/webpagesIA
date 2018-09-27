@@ -6,7 +6,8 @@
  *Description: [Assignment Description]
  */
  
-p {
+p { 
+	photo-resize: height=200px width=250px
 }
 
 .background {
